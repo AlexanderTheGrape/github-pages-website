@@ -1,0 +1,3 @@
+This is the home page of Alex's website. 
+See if you can find one of my projects.
+I hope you like tacos...
